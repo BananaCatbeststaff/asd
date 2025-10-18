@@ -2,7 +2,7 @@ from fastapi import FastAPI, Response
 
 app = FastAPI()
 
-KEYS = ["ef"]
+KEYS = ["ashaflgflafdlsfgfdffgd"]
 
 @app.get("/keys")
 def get_keys_raw():
